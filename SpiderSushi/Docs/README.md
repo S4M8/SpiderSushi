@@ -1,4 +1,4 @@
 ### SpiderSushi Docs
 
-[<img src="./Images/spider-sushi-logo.png">]
+<img src="./Images/spider-sushi-logo.png">
 
